@@ -1,5 +1,4 @@
-# SDIS
-Simple driver installation scripts
+# SDIS (Simple Driver Installation Scripts)
 
 # Thanks to tomaspinho for the original code! 
 # NOTE: These steps were created assuming you're using the GNOME desktop, Nautilus file browser and GNOME Terminal. The instructions may be different for other distros and desktops.
